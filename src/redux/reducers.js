@@ -1,5 +1,5 @@
 const initialState = {
-  greeting: ''
+  greeting: '',
 };
 
 function rootReducer(state = initialState, action) {
